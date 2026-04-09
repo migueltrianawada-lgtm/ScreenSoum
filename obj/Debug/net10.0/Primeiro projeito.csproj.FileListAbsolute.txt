@@ -1,0 +1,14 @@
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\bin\Debug\net10.0\Primeiro projeito.exe
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\bin\Debug\net10.0\Primeiro projeito.deps.json
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\bin\Debug\net10.0\Primeiro projeito.runtimeconfig.json
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\bin\Debug\net10.0\Primeiro projeito.dll
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\bin\Debug\net10.0\Primeiro projeito.pdb
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.AssemblyInfoInputs.cache
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.AssemblyInfo.cs
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.dll
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\refint\Primeiro projeito.dll
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.pdb
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.genruntimeconfig.cache
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\ref\Primeiro projeito.dll
