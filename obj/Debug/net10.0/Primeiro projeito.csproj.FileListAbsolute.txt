@@ -12,3 +12,4 @@ C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\De
 C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.pdb
 C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.genruntimeconfig.cache
 C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\ref\Primeiro projeito.dll
+C:\Users\Miguel Palacios\source\repos\Primeiro projeito\Primeiro projeito\obj\Debug\net10.0\Primeiro projeito.sourcelink.json
